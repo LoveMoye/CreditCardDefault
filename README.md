@@ -10,3 +10,5 @@
 
 ### 결과
 <img src = "https://user-images.githubusercontent.com/68679247/102864221-18a20380-4477-11eb-9642-e4ddf0fc5d9f.PNG" width = "80%">
+<br>
+precision, recall, f1-score, accuracy로 비교한 결과, sampling 한 후, recall과 f1-score는 향상되었고, precision은 줄어들었음. accuracy는 비슷한 결과를 나타냄.
